@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.13.1",
-      "M:\\Projetos_estudo\\JAVA\\Sistema De Controle De Estoque\\Materiais\\15-05\\ControleDeEstoque"
+      "C:\\Users\\nanat\\OneDrive\\Área de Trabalho\\Dev\\Projeto Curso\\Materiais\\material_20-05_editado\\ControleDeEstoque"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.13.1",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.13.1.tgz",
   "_spec": "5.13.1",
-  "_where": "M:\\Projetos_estudo\\JAVA\\Sistema De Controle De Estoque\\Materiais\\15-05\\ControleDeEstoque",
+  "_where": "C:\\Users\\nanat\\OneDrive\\Área de Trabalho\\Dev\\Projeto Curso\\Materiais\\material_20-05_editado\\ControleDeEstoque",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
